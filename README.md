@@ -140,6 +140,10 @@ Due to the high risk of Wireless Access Points (WAPs), with higher frequency of 
 
 I will be continuing to get into more depth and analysis with both the offensive and defensive sides of this project.
 
+- (Coming Soon) Link to Project WAP here.
+- (Coming Soon) Link to Project Kali Hack Box here.
+
+
 ## Resources
 
 Hacking WPA2 by Capturing Handshakes
