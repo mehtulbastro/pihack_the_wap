@@ -46,7 +46,7 @@ There are many but we’ll look at these three
     ```
     ~# aireplay-ng -b <MAC-RaspberryWAP> --test mon0
     ```
-    - Now that we have sniffed out our WAP, there are many methods that can be used to brute force attacks assuming the WAP is locked down and free to the public.
+    - Now that we have sniffed out our WAP, there are many methods that can be used to brute force attacks assuming the WAP is locked down and not open to the public.
         - Some examples: Capturing handshakes, Hashcat attacks using PMKID, and Guessing default passwords - one of the the fastest ways to brute force.
         
             For speed and time, we are going to guess that the default password of “adminadmin” has not been changed, granting us access to the network.
